@@ -1,0 +1,6 @@
+{
+    "parent": "item/bow",
+    "textures": {
+        "layer0": "oui:item/amethyste_bow_pulling_0"
+    }
+}
